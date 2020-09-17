@@ -2,6 +2,10 @@
 
 Raschio Office Word 2019, v.4. This is a text editing program I made a while back.
 
+## Industry:
+
+Business.
+
 ## Changes:
 
 Got rid of unused imports, made the code PEP-8 compliant, and added printing support for Linux.
