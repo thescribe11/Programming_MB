@@ -14,7 +14,7 @@ Got rid of unused imports, made the code PEP-8 compliant, and added printing sup
 
 On Linux: Install TkInter with `sudo apt install python3-tk`, then run script with `~/$ python3 <script>`
 
-On Mac: ¯\\\_(ツ)\_/¯. I'm pretty sure you run it like on Linux, but don't quote me on this.
+On Mac: ¯\\\_(ツ)\_/¯. I think you run it like on Linux, but don't quote me on this.
 
 On Windows: First, [Install Python.](https://www.python.org/downloads/windows/) Once you've done that, access your terminal and type `python <script>`.
 
@@ -55,7 +55,7 @@ Enter GUI class
             | - If (<ctrl-h>) || "Help" menu option
                 | - Display help message
         | - Repeat
-    | - Run destructor methods.
+    | - Run destructor methods (done automatically by the interpreter; no bothering with ~methods like in C++.)
     /
    /
   /
